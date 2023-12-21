@@ -1,1 +1,2 @@
 # Statistical-Loan-Analysis
+Statistical analysis serves as the compass guiding organizations towards this opportunity. It's the art of dissecting and interpreting data, employing rigorous quantitative methods to unearth valuable insights and patterns within the vast realm of financial information. Among the plethora of metrics used for risk assessment, one critical indicator stands out - the likelihood of loan repayment.
